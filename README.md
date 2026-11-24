@@ -18,7 +18,7 @@ Costa Rica (CST, UTC−6) · Full overlap with US hours · Available for remote 
 
 | Repo | What it is | Stack |
 |---|---|---|
-| [astro-wp-headless](https://github.com/mlafuentecr/astro-wp-headless) | Astro front end on the WordPress REST API, with React islands and static pre-rendering | Astro, TS |
+| [astro-wp-headless](https://github.com/mlafuentecr/astro-wp-headless) | Astro front end on the WordPress REST API, with React islands and static pre-rendering — [live demo](https://astro-wp-headless.netlify.app) | Astro, TS |
 | [theme_child_GeneratePress](https://github.com/mlafuentecr/theme_child_GeneratePress) | Production-ready GeneratePress child theme starter | PHP |
 | [wallet-wp-2026](https://github.com/mlafuentecr/wallet-wp-2026) | WordPress + wallet integration | PHP |
 | [base_Wp_boostrap](https://github.com/mlafuentecr/base_Wp_boostrap) | WordPress base theme with Bootstrap | PHP |
